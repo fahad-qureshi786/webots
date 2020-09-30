@@ -16,6 +16,8 @@
 
 """Copy 'index.template.html' to 'index.html' and get JS dependencies locally."""
 
+import lib.transport
+import lib.session
 import os
 import platform
 import shutil
