@@ -57,7 +57,6 @@ Thumbs.db
 *.cache
 
 # IDE files
-.vscode
 
 # Local rules #
 ###############
@@ -68,3 +67,5 @@ Thumbs.db
 /webots.lnk
 /webots_debug_output.txt
 /util
+config.bat
+node_modules
